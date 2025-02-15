@@ -14,7 +14,6 @@ body {
 
 /* Intro Section */
 .intro {
-    margin-top: 20vh;
     width: fit-content;
     margin-left: 10vw;
     display: flex;
@@ -30,7 +29,6 @@ body {
 .name {
     font-size: 100px;
     font-weight: 900;
-    margin-top: 0;
 }
 
 /* Social Icons */
