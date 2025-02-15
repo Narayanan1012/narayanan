@@ -154,7 +154,6 @@ body {
 }
 
 .skill-info {
-    margin-top: 1rem;
     font-size: 1.2rem;
 }
 
@@ -225,7 +224,6 @@ body {
     padding: 10px 20px;
     border-radius: 20px;
     cursor: pointer;
-    margin-top: 20px;
     transition: all 0.3s ease;
     font-family: 'Darker Grotesque', sans-serif;
 
@@ -350,7 +348,6 @@ body {
     }
 
     .intro {
-        margin-top: 10vh; 
         margin-left: 5vw;  
     }
 
