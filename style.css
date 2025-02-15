@@ -331,7 +331,16 @@ body {
     }
 
     .name {
-        font-size: 60px; 
+        font-size: 60px;
+        margin-top: 70.2px;
+        margin-bottom: 20px;
+    }
+
+    .subtext {
+        font-size: 1.2rem;
+        margin-top: -4rem;
+        font-weight: 500;
+        width: 50rem;
     }
 
     .intro {
@@ -343,8 +352,8 @@ body {
         flex-direction: row; 
         flex-wrap: nowrap;
         text-align: center;
-        overflow-x: auto; 
-        justify-content: flex-start; 
+        overflow-x: auto;
+        justify-content: center; 
     }
 
     .social-icons a {
