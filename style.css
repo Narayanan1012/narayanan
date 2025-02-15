@@ -324,3 +324,63 @@ body {
     opacity: 1;
     pointer-events: auto; /* Allow interaction with GIF when visible */
 }
+
+@media (max-width: 768px) {  /* Adjust breakpoint as needed */
+    body {
+        overflow-x: hidden; /* Prevent horizontal scrolling on smaller screens */
+    }
+
+    .name {
+        font-size: 60px; /* Reduce font size of the name */
+    }
+
+    .intro {
+        margin-top: 10vh; /* Reduce top margin */
+        margin-left: 5vw;  /* Reduce left margin */
+    }
+
+    .social-icons {
+        margin-left: 5vw; /* Reduce left margin */
+        flex-direction: column; /* Stack icons vertically */
+        align-items: flex-start; /* Align to the left */
+    }
+    .social-icons a {
+        width: 40px; /* Reduce icon size */
+        height: 40px;
+    }
+    .icon {
+        font-size: 24px; /* Reduce icon font size */
+    }
+
+
+    .skills-section {
+        margin: 3rem 5vw; /* Reduce section margins */
+    }
+    
+    .skill {
+        font-size: 14px; /* Reduce skill font size */
+        padding: 2px 8px; /* Reduce skill padding */
+        margin-bottom: 4px; /* Add some space between skills */
+    }
+    .fog-container {
+        height: 200px; /* Reduce fog height on smaller screens */
+    }
+    .apaw-image {
+        width: 20px; /* Reduce apaw image size */
+        bottom: 10px; /* Adjust bottom position */
+    }
+
+    .cat-gif {
+        width: 40px; /* Reduce cat GIF size */
+    }
+}
+
+/* Even smaller screens (e.g., phones) */
+@media (max-width: 480px) {
+    .name {
+        font-size: 40px;
+    }
+    .skill {
+        font-size: 12px;
+    }
+}
