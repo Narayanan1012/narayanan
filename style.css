@@ -352,6 +352,7 @@ body {
     }
 
     .social-icons {
+        margin-left: 5vw;
         flex-direction: row; 
         flex-wrap: nowrap; 
         overflow-x: auto; 
