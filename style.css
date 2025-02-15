@@ -26,6 +26,13 @@ body {
     font-size: 18px;
 }
 
+ .subtext {
+    font-size: 1.2rem;
+    margin-top: -0.5rem;
+    font-weight: 500;
+    width: 50rem;
+}
+
 .name {
     font-size: 100px;
     font-weight: 900;
