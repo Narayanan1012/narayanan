@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-This is the code for my personal portfolio website. It's a simple, sleek design built with HTML, CSS, and a touch of JavaScript for dynamic effects.  I wanted to create something clean and minimal to showcase my skills and projects.
+This is the code for my personal portfolio website, which you can view live at [https://narayanan1012.github.io/narayanan/](https://narayanan1012.github.io/narayanan/). It's a simple, sleek design built with HTML, CSS, and a touch of JavaScript for dynamic effects.  I wanted to create something clean and minimal to showcase my skills and projects.
 
 ## Features
 
